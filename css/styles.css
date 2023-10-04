@@ -10978,7 +10978,7 @@ textarea.form-control-lg {
 }
 
 /* Hide the images by default */
-.mySlides2, .mySlides3, .mySlides4, .mySlides5 {
+.mySlides2, .mySlides3, .mySlides4, .mySlides5, .mySlides6, .mySlides7, .mySlides8, .mySlides9, .mySlides10, .mySlides11, .mySlides12, .mySlides13, .mySlides14, .mySlides15, .mySlides16, .mySlides17, .mySlides18 {
   display: none;
 }
 
@@ -10988,7 +10988,7 @@ textarea.form-control-lg {
 }
 
 /* Previous and Next buttons */
-.prev2, .next2, .prev3, .next3, .prev4, .next4, .prev5, .next5 {
+.prev2, .next2, .prev3, .next3, .prev4, .next4, .prev5, .next5, .prev6, .prev7, .prev8, .prev9, .prev10, .prev11, .prev12, .prev13, .prev14, .prev15, .prev16, .prev17, .prev18, .next6, .next7, .next8, .next9, .next10, .next11, .next12, .next13, .next14, .next15, .next16, .next17, .next18 {
   cursor: pointer;
   position: absolute;
   top: 50%;
@@ -11004,24 +11004,24 @@ textarea.form-control-lg {
 }
 
 /* Position the "previous button" to the left within the picture */
-.prev2, .prev3, .prev4, .prev5 {
+.prev2, .prev3, .prev4, .prev5, .prev6, .prev7, .prev8, .prev9, .prev10, .prev11, .prev12, .prev13, .prev14, .prev15, .prev16, .prev17, .prev18 {
   left: 0;
   border-radius: 3px 0 0 3px;
 }
 
 /* Position the "next button" to the right within the picture */
-.next2, .next3, .next4, .next5 {
+.next2, .next3, .next4, .next5, .next6, .next7, .next8, .next9, .next10, .next11, .next12, .next13, .next14, .next15, .next16, .next17, .next18 {
   right: 0;
   border-radius: 0 3px 3px 0;
 }
 
 /* On hover, add a black background color with some transparency */
-.prev2:hover, .next2:hover, .prev3:hover, .next3:hover, .prev4:hover, .next4:hover, .prev5:hover, .next5:hover {
+.prev2:hover, .next2:hover, .prev3:hover, .next3:hover, .prev4:hover, .next4:hover, .prev5:hover, .next5:hover, .prev6:hover, .prev7:hover, .prev8:hover, .prev9:hover, .prev10:hover, .prev11:hover, .prev12:hover, .prev13:hover, .prev14:hover, .prev15:hover, .prev16:hover, .prev17:hover, .prev18:hover, .next6:hover, .next7:hover, .next8:hover, .next9:hover, .next10:hover, .next11:hover, .next12:hover, .next13:hover, .next14:hover, .next15:hover, .next16:hover, .next17:hover, .next18:hover {
   background-color: rgba(0, 0, 0, 0.8);
 }
 
 /* Caption text */
-.picCaption2, .picCaption3, .picCaption4, .picCaption5 {
+.picCaption2, .picCaption3, .picCaption4, .picCaption5, .picCaption6, .picCaption7, .picCaption8, .picCaption9, .picCaption10, .picCaption11, .picCaption12, .picCaption13, .picCaption14, .picCaption15, .picCaption16, .picCaption17, .picCaption18 {
   color: #f2f2f2;
   font-size: 20px;
   padding: 8px 12px;
@@ -11034,7 +11034,7 @@ textarea.form-control-lg {
 
 /* Add this CSS to change dot color when the slide is active */
 /* The dots/bullets/indicators for the second slideshow */
-.dot2, .dot3, .dot4, .dot5 {
+.dot2, .dot3, .dot4, .dot5, .dot6, .dot7, .dot8, .dot9, .dot10, .dot11, .dot12, .dot13, .dot14, .dot15, .dot16, .dot17, .dot18 {
   cursor: pointer;
   height: 15px;
   width: 15px;
@@ -11046,6 +11046,6 @@ textarea.form-control-lg {
 }
 
 /* Change the background color of the active dot for both slideshows */
-.dot.active, .dot2.active, .dot3.active, .dot4.active, .dot5.active {
+.dot.active, .dot2.active, .dot3.active, .dot4.active, .dot5.active, .dot6.active, .dot7.active, .dot8.active, .dot9.active, .dot10.active, .dot11.active, .dot12.active, .dot13.active, .dot14.active, .dot15.active, .dot16.active, .dot17.active, .dot18.active{
   background-color: black; /* Set it to the same color for both slideshows */
 }
