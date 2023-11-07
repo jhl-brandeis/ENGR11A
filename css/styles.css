@@ -11049,3 +11049,30 @@ textarea.form-control-lg {
 .dot.active, .dot2.active, .dot3.active, .dot4.active, .dot5.active, .dot6.active, .dot7.active, .dot8.active, .dot9.active, .dot10.active, .dot11.active, .dot12.active, .dot13.active, .dot14.active, .dot15.active, .dot16.active, .dot17.active, .dot18.active, .dot19.active, .dot20.active, .dot21.active, .dot22.active, .dot23.active, .dot24.active, .dot25.active, .dot26.active, .dot27.active, .dot28.active, .dot29.active, .dot30.active, .dot31.active, .dot32.active, .dot33.active, .dot34.active, .dot35.active {
   background-color: black; /* Set it to the same color for both slideshows */
 }
+
+
+
+
+
+
+
+/* For Button*/
+.btn {
+  border: none;
+  background-color: inherit;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+/* On mouse-over */
+.btn:hover {background: #eee;}
+
+/* .info {color: dodgerblue;} */
+
+
+
+
+
+
